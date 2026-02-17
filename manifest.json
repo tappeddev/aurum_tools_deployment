@@ -1,11 +1,11 @@
 {
-    "name": "aurum_tools",
-    "short_name": "aurum_tools",
+    "name": "AurumTools",
+    "short_name": "AurumTools",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#145DF9",
-    "description": "A new Flutter project.",
+    "description": "Jewelry Craft Toolbox",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
